@@ -141,7 +141,7 @@ const quizQuestions = [
   },
   {
     question: 'Is the set of variables you have access to.',
-    answer: 'c',
+    answer: 'd',
     options: {
       a: 'String', 
       b: 'Constants', 
